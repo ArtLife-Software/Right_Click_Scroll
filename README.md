@@ -1,7 +1,11 @@
 # 🖱️ Right Click Scroll
 
-![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
-![Category](https://img.shields.io/badge/Tool-Mouse%20Enhancement-orange.svg)
+![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)
+![Language](https://img.shields.io/badge/Language-AutoHotkey_v2-green?style=flat-square&logo=autohotkey)
+![Locale](https://img.shields.io/badge/Locale-正體中文-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL_v3-red?style=flat-square)
+![Latest Release](https://img.shields.io/github/v/release/ArtLife-Software/Right_Click_Scroll?style=flat-square&color=blue)
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/Right_Click_Scroll/total?style=flat-square&logo=github)
 
 ## 🚀 主要功能
 
